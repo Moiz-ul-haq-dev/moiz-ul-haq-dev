@@ -81,8 +81,6 @@
 
 **Technologies:** React, Vite, Tailwind CSS, Node.js, Express.js, MongoDB
 
-> Add the actual GitHub repository links and live demos to these projects once you've verified them.
-
 ## 💼 Professional Experience
 
 **Software Development**
